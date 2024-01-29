@@ -1,1 +1,1 @@
-# thanmaya-portfolio
+# thanmaya.github.io
