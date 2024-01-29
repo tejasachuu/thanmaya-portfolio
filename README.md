@@ -13,7 +13,7 @@ Welcome to the GitHub repository for Thanmaya's portfolio website. This website 
 
 ## Demo
 
-You can visit the live website at [Thanmaya's Portfolio](#) (Replace with the actual link once the website is deployed).
+You can visit the live website at [Thanmaya's Portfolio](#) (https://tejasachuu.github.io/thanmaya-portfolio/).
 
 ## Features
 
