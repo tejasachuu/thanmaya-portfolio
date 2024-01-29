@@ -33,11 +33,10 @@ You can visit the live website at [Thanmaya's Portfolio](#) (Replace with the ac
 
 
 ## How to Use
-
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/friends-portfolio.git
-    ```
+   ```
 
 ### Open the Project:
 
