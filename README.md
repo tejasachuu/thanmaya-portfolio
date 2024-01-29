@@ -35,13 +35,13 @@ You can visit the live website at [Thanmaya's Portfolio](#) (https://tejasachuu.
 ## How to Use
 **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/friends-portfolio.git
+   git clone https://github.com/tejasachuu/thanmaya-portfolio.git
    ```
 
 ### Open the Project:
 
 ```
-cd friends-portfolio
+cd thanmaya-portfolio
 ```
 
 ### Open index.html in your Browser:
